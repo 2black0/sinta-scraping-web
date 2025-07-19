@@ -45,14 +45,6 @@ SINTA_USERNAME=your_email@example.com
 SINTA_PASSWORD=your_password
 ```
 
-### 4. Siapkan File Dosen
-Buat file `dosen.txt` dengan format:
-```
-Nama Dosen 1
-Nama Dosen 2
-Nama Dosen 3
-```
-
 ## � Cara Penggunaan
 
 ### 1. Jalankan Aplikasi
@@ -64,10 +56,10 @@ python sinta-web.py
 - Kunjungi: **http://localhost:5000**
 - Interface web akan terbuka otomatis
 
-### 3. Upload File Dosen
+### 3. Edit ID Sinta
 - Edit `dosen.txt`manual atau
 - Isi pada halaman web ID Sinta baris per baris
-> contoh: https://sinta.kemdikbud.go.id/authors/profile/6726725
+> **💡 Tip**: ID SINTA dari URL profil: `https://sinta.kemdikbud.go.id/authors/profile/6726725`
 
 ### 4. Pilih Kategori Data
 - ✅ Centang kategori yang ingin di-scrape
