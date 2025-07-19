@@ -89,26 +89,6 @@ output-19072025/
 └── haki.csv            # Data HAKI
 ```
 
-## 💡 Tips Penggunaan
-
-- **Mulai dengan File Kecil**: Test dulu dengan 2-3 nama dosen
-- **Pilih Kategori Sesuai Kebutuhan**: Tidak harus scrape semua kategori
-- **Bersabar**: Proses scraping membutuhkan waktu tergantung jumlah data
-- **Periksa Koneksi Internet**: Pastikan koneksi stabil selama proses
-
-## 🔧 Troubleshooting
-
-**Q: Aplikasi tidak bisa diakses di browser?**
-A: Pastikan tidak ada aplikasi lain yang menggunakan port 5000
-
-**Q: Error saat scraping?**
-A: Cek koneksi internet dan pastikan nama dosen ditulis dengan benar
-
-**Q: File CSV kosong?**
-A: Kemungkinan dosen tidak ditemukan di SINTA atau tidak ada publikasi
-
-**Q: Proses scraping terlalu lama?**
-A: Normal jika data banyak. Bisa dicoba dengan jumlah dosen yang lebih sedikit
 
 ## � Lisensi
 
